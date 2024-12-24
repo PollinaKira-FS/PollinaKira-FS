@@ -1,4 +1,4 @@
-# 👋 Hi, I’m kire
+# 👋 Hi, I’m kira
 - 🌱 I’m a web dev student at Full Sail University
 - 🔭 Stargazing makes me happy
 - ⚛️ I work in Nuclear Energy
